@@ -1,0 +1,45 @@
+restaurant_id,restaurant_name,area_id,cuisine,rating,onboard_date
+R101,Smash House,A19,Burgers,,2023-04-10
+R102,Bawarchi Express,A08,Biriyani,3.7,2023-07-16
+R103,Amritsari Kitchen,A13,North Indian,4.4,21-04-2023
+R104,Manchurian Hub,A16,Chinese,4.7,09-06-2025
+R105,  Dragon Bowl ,A19,Chinese,4.1,2024-08-08
+R106,  Sugar Rush ,A02,Desserts,3.7,2025-06-15
+R107,CRUST AND CHEESE,A13,Pizza,4.6,2024-06-09
+R108,Szechuan House,A07,Chinese,3.5,2024-10-04
+R109,Waffle Works,A08,dessert,3.4,2025-02-02
+R110,Napoli Wood Fire,A14,Italian - Pizza,3.5,2025-04-24
+R111,Udupi Sagar,A09,South Indian,4.1,2023-05-08
+R112,Ambur Star,A03,Biryani,4.5,2024-12-27
+R113,Nawab Biryani,A10,Biryani,4.3,2023-09-06
+R114,  Biryani Blues ,A01,Biryani,3.6,2024-12-19
+R115,Bun Stop,A12,Burgers,4.3,10-01-2025
+R116,Burger Barn,A09,Burgers,4.3,2023-09-08
+R117,Dum Pukht House,A09,Biryani,4.6,2023-10-30
+R118,Royal Rasoi,A08,N. Indian,3.9,2024-04-19
+R119,  Idli Factory ,A14,South Indian,,2024-06-25
+R120,Wok Express,A12,Chinese,4.5,2025-02-05
+R121,Golden Chopsticks,A03,Chinese,,2023-04-27
+R122,Chole Bhature Co,A14,North-Indian,4.7,2024-08-14
+R123,PARADISE BIRYANI POINT,A15,Biryani,4.0,11-10-2024
+R124,Grill and Bun,A20,Burgers,,2023-07-16
+R125,  Slice Republic ,A07,Pizza,3.8,2024-05-01
+R106,  Sugar Rush ,A02,Desserts,3.7,2025-06-15
+R126,Filter Coffee House,A08,South-Indian,4.2,2023-07-08
+R127,Pizza Studio,A14,Pizza,,2023-12-28
+R128,  Annapoorna Mess ,A05,South Indian,4.1,2023-08-14
+R129,Tandoor Tales,A10,North Indian,4.0,16-09-2023
+R130,Oven Story Cafe,A03,Pizza,3.5,2024-11-06
+R131,Noodle Street,A17,Chinese,3.2,2024-05-16
+R132,Patty Shack,A09,Burgers,4.3,2023-07-29
+R133,Punjab Grill House,A08,N. Indian,3.6,2023-03-18
+R134,Delhi Dhaba,A17,North Indian,3.6,2023-03-24
+R135,Kebab Corner,A10,North Indian,4.6,2023-04-10
+R136,Ghee Roast Hub,A18,South Indian,3.6,2023-08-10
+R137,Mithai Mandir,A03,Desserts,4.7,2024-03-19
+R138,Madras Cafe,A02,South-Indian,3.7,2023-10-29
+R139,Hyderabadi Handi,A05,Biryani,4.4,2024-12-02
+R140,Dosa Point,A01,South Indian,4.5,2024-05-10
+R141,BROWNIE BAR,A11,Desserts,3.6,2024-02-10
+R142,Kulfi Kingdom,A16,Desserts,,2023-04-11
+R133,Punjab Grill House,A08,N. Indian,3.6,2023-03-18

@@ -1,0 +1,22 @@
+area_id,area_name,city,zone
+A01,Koramangala,BLR,South
+A02,Indiranagar,Bengaluru,North
+A03,HSR Layout,Bengaluru,East
+A04,Whitefield,Bengaluru,North
+A05,Jayanagar,BLR,Central
+A06,Marathahalli,Bengaluru ,West
+A07,Gachibowli,Hyd,Central
+A08,Madhapur,Hyderabad,West
+A09,Banjara Hills,Hyderabad,North
+A04,Whitefield,Bengaluru,North
+A10,Kukatpally,hyderabad,North
+A11,Begumpet,Hyderabad,West
+A12,T Nagar,Chennai,North
+A13,Velachery,Chennai,North
+A14,Anna Nagar,Madras,North
+A15,Adyar,chennai,East
+A16,Andheri West,MUMBAI,West
+A17,Bandra,Mumbai,North
+A18,Powai,Mumbai,East
+A19,Lower Parel,Mumbai,North
+A20,Thane West,mumbai,East
